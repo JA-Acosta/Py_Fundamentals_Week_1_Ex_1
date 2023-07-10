@@ -1,0 +1,8 @@
+This is the first program derived from 100 program suggested by ChatGPT for a 4 week python course. Since I already have programming expertise, I will be combining the first five prompts into a single program. My main goal is to pay close attention to pythonic syntax, creating and updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following 5 ChatGPT prompts were used to develop this program:
+1. Print "Hello, World!" to the console.
+2. Store your name in a variable and print it.
+3. Perform basic arithmetic operations (addition, subtraction, multiplication, division) on two numbers.
+4. Calculate the area of a rectangle given its width and height.
+5. Convert temperature from Celsius to Fahrenheit.
